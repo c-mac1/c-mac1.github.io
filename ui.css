@@ -1,0 +1,88 @@
+
+.mar {
+	padding-bottom: 10%;
+}
+
+.pad {
+	padding-left: 10px;
+}
+
+.pad1 {
+	padding-top: 5%;
+}
+.pad2{
+	padding-top: 3%;
+	}
+
+.log {
+	margin: 10%;
+}
+
+.centeralign {
+	text-align: center;
+}
+
+.contact{
+	padding-top: 120px;
+	text-align: center;
+	border-bottom: thin grey solid;
+}
+
+.img-thumbnail{
+    max-height:250px;
+    max-width:300px;
+    
+}
+
+.prod {
+	border-bottom: thin grey solid;
+	padding-bottom: 10px;
+}
+
+.prod1 {
+	border-bottom: thin grey solid;
+	padding-bottom: 50px;
+}
+
+.logpad {
+	padding: 8%;
+}
+
+.back {
+	width: 75%;
+	padding: 8%;
+
+}
+
+.wid {
+   	margin-top: 82px;
+    object-fit: cover;
+}
+
+.cardreg{
+	padding: 50px 0px 0px 100px;
+}
+
+#help {
+	color: inherit;
+}
+
+
+.mar1 {
+	margin-bottom: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
